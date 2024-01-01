@@ -1,3 +1,11 @@
+__Pycache__
+dist
+*.tbz
+*.zip
+core
+pwntools
+gef
+
 # Prerequisites
 *.d
 

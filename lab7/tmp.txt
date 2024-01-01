@@ -1,0 +1,17 @@
+open: 
+    rax: 2
+    rdi:
+    rsi:
+    rdx:
+
+read:
+    rax: 0
+    rdi:
+    rsi:
+    rdx:
+
+write:
+    rax: 1
+    rdi:
+    rsi:
+    rdx:
